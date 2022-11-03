@@ -20,6 +20,7 @@
                 <ref bean="${1}"/>
                 <ref bean="${2}"/>
                 <ref bean="${2}"/>
+                <ref bean="${1}"/>
             </list>
         </property>
         <property name="volume" value="90"/>
